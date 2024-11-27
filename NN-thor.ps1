@@ -1,6 +1,6 @@
 # Define parameters
 $BaseDir = "C:\DFIR"
-$ThorZipUrl = "https://file.io/fJOccp9bkfOt"
+$ThorZipUrl = "https://raw.githubusercontent.com/MoeTaher/DFIR/refs/heads/main/NN-thor.ps1"
 $ThorZipPath = "$BaseDir\NN-Thor-ScannerNCA.zip"
 $UnzipDir = "$BaseDir\NN-thor-scanner"
 $NestedThorDir = "$UnzipDir\NN-Thor-Scanner"
